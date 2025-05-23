@@ -15,4 +15,4 @@ Backend:
 
 ## Contact
 
-you can contact me through my telegram channel @davidITdelevoper" но замени на наш фронтед и бекенд
+you can contact me through my telegram channel @davidITdelevoper
